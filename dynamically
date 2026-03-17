@@ -1,0 +1,14 @@
+In Python, the datatype of a variable is decided automatically at the time of execution based on the value assigned to it. 
+This is called as dynamic typing.
+
+num=65 #line 1
+num="A" #line 2
+
+num=65
+print(num,type(num))
+num="A"
+print(num,type(num))
+
+Output:
+65 <class 'int'>
+A <class 'str'>
