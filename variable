@@ -1,9 +1,0 @@
-Variables are like containers for data (i.e. they hold the data) and the value of the variable can vary throughout the program.
-Common data types used in programming are listed below: 
-
-Category			Datatype	Example
-
-Numeric				int		123
-Numeric with decimal point	float		123.45
-Alphanumeric			string		Hello
-Boolean				Boolean		True, False
